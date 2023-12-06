@@ -1,0 +1,7 @@
+D:\simplilearn projects - phase1\PhaseEndPro-2\bin\Debug\PhaseEndPro-2.exe.config
+D:\simplilearn projects - phase1\PhaseEndPro-2\bin\Debug\PhaseEndPro-2.exe
+D:\simplilearn projects - phase1\PhaseEndPro-2\bin\Debug\PhaseEndPro-2.pdb
+D:\simplilearn projects - phase1\PhaseEndPro-2\obj\Debug\PhaseEndPro-2.csproj.AssemblyReference.cache
+D:\simplilearn projects - phase1\PhaseEndPro-2\obj\Debug\PhaseEndPro-2.csproj.CoreCompileInputs.cache
+D:\simplilearn projects - phase1\PhaseEndPro-2\obj\Debug\PhaseEndPro-2.exe
+D:\simplilearn projects - phase1\PhaseEndPro-2\obj\Debug\PhaseEndPro-2.pdb

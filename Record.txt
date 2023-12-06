@@ -1,0 +1,6 @@
+30,Sam,10,C
+31,Keerthana,8,B
+32,Ashwin,12,C
+33,Harsha,11,D
+34,Gautham,6,B
+35,Sri,9,A
